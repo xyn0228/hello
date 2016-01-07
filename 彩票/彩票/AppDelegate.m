@@ -16,7 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    
+    NSLog(@"");
     //隐藏状态栏
     application.statusBarHidden = NO;
     application.statusBarStyle = UIStatusBarStyleLightContent;
