@@ -11,6 +11,12 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+
+
+
+
+
+
 //rename的改变
 //rename的改变
 
